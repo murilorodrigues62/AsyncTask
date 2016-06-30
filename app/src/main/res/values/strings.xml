@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="texto_informacao">Clique no botão abaixo para preencher a tela com informações adquiridas nos Web Services</string>
+    <string name="texto_botao">Acessar Web Services</string>
+    <string name="texto_url">Informe a url do Web Service</string>
+    <string name="msg_erro_json">Erro no processamento do objeto JSON</string>
+    <string name="msg_erro">Erro na recuperação de objeto</string>
+    <string name="msg_erro_url">Erro eu recuperar Json. Verifique se a URL está correta!</string>
+</resources>
